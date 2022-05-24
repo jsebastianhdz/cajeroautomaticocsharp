@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Programacion_faseFinal_cajero/1.0.0": {
+        "runtime": {
+          "Programacion_faseFinal_cajero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programacion_faseFinal_cajero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

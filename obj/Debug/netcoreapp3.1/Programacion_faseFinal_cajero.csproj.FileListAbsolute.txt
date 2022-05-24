@@ -1,0 +1,14 @@
+C:\Users\YANETH OROZCO\Google Drive\Programacion_faseFinal_cajero\Programacion_faseFinal_cajero\bin\Debug\netcoreapp3.1\Programacion_faseFinal_cajero.exe
+C:\Users\YANETH OROZCO\Google Drive\Programacion_faseFinal_cajero\Programacion_faseFinal_cajero\bin\Debug\netcoreapp3.1\Programacion_faseFinal_cajero.deps.json
+C:\Users\YANETH OROZCO\Google Drive\Programacion_faseFinal_cajero\Programacion_faseFinal_cajero\bin\Debug\netcoreapp3.1\Programacion_faseFinal_cajero.runtimeconfig.json
+C:\Users\YANETH OROZCO\Google Drive\Programacion_faseFinal_cajero\Programacion_faseFinal_cajero\bin\Debug\netcoreapp3.1\Programacion_faseFinal_cajero.runtimeconfig.dev.json
+C:\Users\YANETH OROZCO\Google Drive\Programacion_faseFinal_cajero\Programacion_faseFinal_cajero\bin\Debug\netcoreapp3.1\Programacion_faseFinal_cajero.dll
+C:\Users\YANETH OROZCO\Google Drive\Programacion_faseFinal_cajero\Programacion_faseFinal_cajero\bin\Debug\netcoreapp3.1\Programacion_faseFinal_cajero.pdb
+C:\Users\YANETH OROZCO\Google Drive\Programacion_faseFinal_cajero\Programacion_faseFinal_cajero\obj\Debug\netcoreapp3.1\Programacion_faseFinal_cajero.csproj.AssemblyReference.cache
+C:\Users\YANETH OROZCO\Google Drive\Programacion_faseFinal_cajero\Programacion_faseFinal_cajero\obj\Debug\netcoreapp3.1\Programacion_faseFinal_cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANETH OROZCO\Google Drive\Programacion_faseFinal_cajero\Programacion_faseFinal_cajero\obj\Debug\netcoreapp3.1\Programacion_faseFinal_cajero.AssemblyInfoInputs.cache
+C:\Users\YANETH OROZCO\Google Drive\Programacion_faseFinal_cajero\Programacion_faseFinal_cajero\obj\Debug\netcoreapp3.1\Programacion_faseFinal_cajero.AssemblyInfo.cs
+C:\Users\YANETH OROZCO\Google Drive\Programacion_faseFinal_cajero\Programacion_faseFinal_cajero\obj\Debug\netcoreapp3.1\Programacion_faseFinal_cajero.csproj.CoreCompileInputs.cache
+C:\Users\YANETH OROZCO\Google Drive\Programacion_faseFinal_cajero\Programacion_faseFinal_cajero\obj\Debug\netcoreapp3.1\Programacion_faseFinal_cajero.dll
+C:\Users\YANETH OROZCO\Google Drive\Programacion_faseFinal_cajero\Programacion_faseFinal_cajero\obj\Debug\netcoreapp3.1\Programacion_faseFinal_cajero.pdb
+C:\Users\YANETH OROZCO\Google Drive\Programacion_faseFinal_cajero\Programacion_faseFinal_cajero\obj\Debug\netcoreapp3.1\Programacion_faseFinal_cajero.genruntimeconfig.cache
